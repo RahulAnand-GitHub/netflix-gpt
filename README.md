@@ -53,4 +53,4 @@
       - MovieLists \* N
 - NetflixGPT
   - Search Bar
-  - Movie Suggestioins
+  - Movie Suggestions
